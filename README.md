@@ -7,7 +7,7 @@ a place for [the book readers](https://leanpub.com/jsglossary) to provide feedba
 
 ### before suggesting changes ...
 
-Please consider reading twice the "_what this book is not_" chapter before sugesting changes.
+Please consider reading twice the "_what this book is not_" chapter before suggesting any change.
 
 If some concept is overly simplified, that's probably how it was supposed to be.
 
@@ -22,4 +22,5 @@ The words `bindings`, `immutable` or even `objects` are presented as if the user
 
 Under this vision, I welcome you to suggest any improvement you consider appropriate to any wording or code example.
 
-**Thank You**
+**Thank You**,
+  Andrea Giammarchi
