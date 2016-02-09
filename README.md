@@ -1,4 +1,2 @@
-# JavaScript glossary on demand
-A place for the book readers to provide feedback, suggest better wording, or fix typos.
-
-![book logo](img/js-glossary-on-demand.png)
+![JavaScript glossary on demand](img/js-glossary-on-demand.png)
+### a place for [the book readers](https://leanpub.com/jsglossary) to provide feedback, suggest better wording, or fix typos.
