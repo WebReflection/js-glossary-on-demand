@@ -1,5 +1,5 @@
 # JavaScript glossary on demand
-a place for [the book readers](https://leanpub.com/jsglossary) to provide feedback, suggest better wording, or fix typos.
+a place for **[the book](https://leanpub.com/jsglossary)** readers to provide feedback, suggest better wording, or fix typos.
 
 ![book logo](img/js-glossary-on-demand.png)
 
@@ -18,6 +18,7 @@ To provide an example, if the definition of constants and `const` is the followi
 > `const` declarations are for constant bindings but they don't guarantee immutable data objects
 
 all we have is a "_special little circle of hell_" for people that do not know anything about programming.
+
 The words `bindings`, `immutable` or even `objects` are presented as if the user knows what we are taling about but that's the whole point of this book: most users don't!
 
 Under this vision, I welcome you to suggest any improvement you consider appropriate to any wording or code example.
