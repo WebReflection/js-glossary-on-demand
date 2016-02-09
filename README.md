@@ -19,7 +19,7 @@ To provide an example, if the definition of constants and `const` is the followi
 
 all we have is a "_special little circle of hell_" for people that do not know anything about programming.
 
-The words `bindings`, `immutable` or even `objects` are presented as if the user knows what we are taling about but that's the whole point of this book: most users don't!
+The words `bindings`, `immutable` or even `objects` are presented as if the user knows what we are talking about but that's the whole point of this book: most users don't!
 
 Under this vision, I welcome you to suggest any improvement you consider appropriate to any wording or code example.
 
